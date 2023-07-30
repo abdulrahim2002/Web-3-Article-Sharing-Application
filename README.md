@@ -1,4 +1,7 @@
 # Web-3-Article-Sharing-Application
+
+An article/blog/text sharing website like medium, twitter. Where users can read articles by executing a transaction on the blockchain. The articles are implemented as ERC1155 token, which require access key to open. Articles can be paid or free to claim. Users need to execute a transactions on the blockchain to read any article.
+
 A web3 application, to read articles. The articles require access key, implemented as ERC1155 semi-fungible token. View contract code [here](https://github.com/abdulrahim2002/Web-3-Article-Sharing-Application/blob/main/DropERC1155.sol).
 
 ## Features:
