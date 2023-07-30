@@ -4,6 +4,7 @@ A web3 application, to read articles. The articles require access key, implement
 Features:
 * Integrates many wallets using ThirdWeb SDK
 * Article ownership is implemented as ERC1155 token
+* Executed transactions on the blockchain from within the application
 
 ## Screen Shots:
 
