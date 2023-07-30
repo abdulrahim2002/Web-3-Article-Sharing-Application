@@ -1,7 +1,7 @@
 # Web-3-Article-Sharing-Application
 A web3 application, to read articles. The articles require access key, implemented as ERC1155 semi-fungible token. View contract code [here](https://github.com/abdulrahim2002/Web-3-Article-Sharing-Application/blob/main/DropERC1155.sol).
 
-Features:
+## Features:
 * Integrates many wallets using ThirdWeb SDK
 * Article ownership is implemented as ERC1155 token
 * Executed transactions on the blockchain from within the application
