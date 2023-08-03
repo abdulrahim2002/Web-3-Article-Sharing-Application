@@ -4,6 +4,12 @@ An article/blog/text sharing website like medium, twitter. Where users can read 
 
 A web3 application, to read articles. The articles require access key, implemented as ERC1155 semi-fungible token. View contract code [here](https://github.com/abdulrahim2002/Web-3-Article-Sharing-Application/blob/main/DropERC1155.sol).
 
+# Video Demonstration
+
+
+https://github.com/abdulrahim2002/Web-3-Article-Sharing-Application/assets/89011337/f7fdf8a1-4c81-493a-bd91-808c0aad4e32
+
+
 ## Features:
 * Integrates many wallets using ThirdWeb SDK
 * Article ownership is implemented as ERC1155 token
