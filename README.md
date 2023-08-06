@@ -6,7 +6,6 @@ A web3 application, to read articles. The articles require access key, implement
 
 # Video Demonstration
 
-
 https://github.com/abdulrahim2002/Web-3-Article-Sharing-Application/assets/89011337/f7fdf8a1-4c81-493a-bd91-808c0aad4e32
 
 
